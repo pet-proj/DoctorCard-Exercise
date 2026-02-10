@@ -1,0 +1,1180 @@
+{
+   "distance":null,
+   "npi":"1104913946",
+   "gender":{
+      "code":"F",
+      "value":"Female"
+   },
+   "fullName":"Linda Judith Anegawa",
+   "displayName":"Linda Judith Anegawa, S",
+   "name":{
+      "first":"Linda",
+      "middle":"Judith",
+      "last":"Anegawa",
+      "titles":"S",
+      "prefix":null,
+      "suffix":null
+   },
+   "email":null,
+   "bio":null,
+   "imageUrl":null,
+   "imageVersion":null,
+   "yearsOfExperience":null,
+   "clinicalAreas":[
+      {
+         "name":"Injections or Aspirations of Muscles, Tendons and Ligaments",
+         "description":null,
+         "scope":"px",
+         "score":83,
+         "observations":7447,
+         "volume":null,
+         "highlight":false,
+         "searchedTerm":false
+      },
+      {
+         "name":"Traction, Splints, and Other Wound Care",
+         "description":null,
+         "scope":"px",
+         "score":81,
+         "observations":28170,
+         "volume":null,
+         "highlight":false,
+         "searchedTerm":false
+      },
+      {
+         "name":"Diagnostic Procedures on Lung and Bronchus (Excludes Bronchoscopy and Thoracoscopy)",
+         "description":null,
+         "scope":"px",
+         "score":79,
+         "observations":88599,
+         "volume":null,
+         "highlight":false,
+         "searchedTerm":false
+      },
+      {
+         "name":"Diagnostic Ultrasound of Heart (Echocardiogram)",
+         "description":null,
+         "scope":"px",
+         "score":73,
+         "observations":127447,
+         "volume":null,
+         "highlight":false,
+         "searchedTerm":false
+      },
+      {
+         "name":"Electrocardiogram",
+         "description":null,
+         "scope":"px",
+         "score":70,
+         "observations":156602,
+         "volume":null,
+         "highlight":false,
+         "searchedTerm":false
+      },
+      {
+         "name":"Diseases of the Bone and Connective Tissue",
+         "description":null,
+         "scope":"dx",
+         "score":84,
+         "observations":226738,
+         "volume":10.59,
+         "highlight":false,
+         "searchedTerm":false
+      },
+      {
+         "name":"Diseases of the Circulatory System",
+         "description":null,
+         "scope":"dx",
+         "score":60,
+         "observations":231973,
+         "volume":10.52,
+         "highlight":false,
+         "searchedTerm":false
+      },
+      {
+         "name":"Obesity",
+         "description":"Excess of body fat. Obesity is more that just being over weight; obesity is a medical condition. Obesity increases the risk of heart disease, diabetes, stroke, high blood pressure, some cancers and other serious health problems.",
+         "scope":"dx",
+         "score":92,
+         "observations":194443,
+         "volume":6.47,
+         "highlight":false,
+         "searchedTerm":false
+      },
+      {
+         "name":"Hypertension",
+         "description":"High blood pressue is a condition where the heart (left ventricle) has to exert greater force in order to pump blood out of the heart into the main artery of the body (aorta) and throughout the body through arteries that are narrowed or stiff. High blood pressure (HBP) is also known as hypertension (HTN), essential hypertension, and benign essential hypertension.",
+         "scope":"dx",
+         "score":76,
+         "observations":221540,
+         "volume":6.04,
+         "highlight":false,
+         "searchedTerm":false
+      },
+      {
+         "name":"Lipid Metabolism Disorders",
+         "description":null,
+         "scope":"dx",
+         "score":75,
+         "observations":208330,
+         "volume":3.3,
+         "highlight":false,
+         "searchedTerm":false
+      },
+      {
+         "name":"Diseases of the Heart",
+         "description":null,
+         "scope":"dx",
+         "score":56,
+         "observations":224559,
+         "volume":3.26,
+         "highlight":false,
+         "searchedTerm":false
+      },
+      {
+         "name":"Genital and Urinary Organ Diseases",
+         "description":null,
+         "scope":"dx",
+         "score":62,
+         "observations":224616,
+         "volume":3.13,
+         "highlight":false,
+         "searchedTerm":false
+      },
+      {
+         "name":"Diseases of the Digestive System",
+         "description":null,
+         "scope":"dx",
+         "score":62,
+         "observations":223674,
+         "volume":2.82,
+         "highlight":false,
+         "searchedTerm":false
+      },
+      {
+         "name":"Diabetes With Complications",
+         "description":null,
+         "scope":"dx",
+         "score":84,
+         "observations":198259,
+         "volume":2.67,
+         "highlight":false,
+         "searchedTerm":false
+      },
+      {
+         "name":"Connective Tissue Disease",
+         "description":null,
+         "scope":"dx",
+         "score":84,
+         "observations":207221,
+         "volume":2.62,
+         "highlight":false,
+         "searchedTerm":false
+      },
+      {
+         "name":"Urinary System Diseases",
+         "description":null,
+         "scope":"dx",
+         "score":65,
+         "observations":221336,
+         "volume":2.6,
+         "highlight":false,
+         "searchedTerm":false
+      },
+      {
+         "name":"Bone Disease (Excludes Arthritis, Osteoporosis and Acquired Deformities)",
+         "description":null,
+         "scope":"dx",
+         "score":94,
+         "observations":142228,
+         "volume":2.41,
+         "highlight":false,
+         "searchedTerm":false
+      },
+      {
+         "name":"Diabetes Mellitus Without Complications",
+         "description":null,
+         "scope":"dx",
+         "score":76,
+         "observations":212678,
+         "volume":2.41,
+         "highlight":false,
+         "searchedTerm":false
+      },
+      {
+         "name":"Arthritis",
+         "description":null,
+         "scope":"dx",
+         "score":74,
+         "observations":205962,
+         "volume":1.9,
+         "highlight":false,
+         "searchedTerm":false
+      },
+      {
+         "name":"Disorders of Muscle Ligament and Fascia",
+         "description":null,
+         "scope":"dx",
+         "score":90,
+         "observations":169579,
+         "volume":1.88,
+         "highlight":false,
+         "searchedTerm":false
+      },
+      {
+         "name":"Chronic Renal (Kidney) Disease",
+         "description":null,
+         "scope":"dx",
+         "score":87,
+         "observations":200276,
+         "volume":1.6,
+         "highlight":false,
+         "searchedTerm":false
+      },
+      {
+         "name":"Diseases of the Nervous System and Sense Organs",
+         "description":null,
+         "scope":"dx",
+         "score":41,
+         "observations":222327,
+         "volume":1.55,
+         "highlight":false,
+         "searchedTerm":false
+      },
+      {
+         "name":"Liver Disease",
+         "description":null,
+         "scope":"dx",
+         "score":86,
+         "observations":196912,
+         "volume":1.36,
+         "highlight":false,
+         "searchedTerm":false
+      },
+      {
+         "name":"Sprains and Strains",
+         "description":null,
+         "scope":"dx",
+         "score":94,
+         "observations":64113,
+         "volume":1.31,
+         "highlight":false,
+         "searchedTerm":false
+      },
+      {
+         "name":"Abnormal Heartbeat",
+         "description":null,
+         "scope":"dx",
+         "score":67,
+         "observations":205525,
+         "volume":1.25,
+         "highlight":false,
+         "searchedTerm":false
+      },
+      {
+         "name":"Upper Gastrointestinal Disorders",
+         "description":null,
+         "scope":"dx",
+         "score":79,
+         "observations":199561,
+         "volume":1.25,
+         "highlight":false,
+         "searchedTerm":false
+      },
+      {
+         "name":"Esophageal Disorders",
+         "description":null,
+         "scope":"dx",
+         "score":78,
+         "observations":192883,
+         "volume":1.22,
+         "highlight":false,
+         "searchedTerm":false
+      },
+      {
+         "name":"Metabolism Disorders",
+         "description":null,
+         "scope":"dx",
+         "score":84,
+         "observations":190718,
+         "volume":1.14,
+         "highlight":false,
+         "searchedTerm":false
+      },
+      {
+         "name":"Diseases of the Respiratory System",
+         "description":null,
+         "scope":"dx",
+         "score":39,
+         "observations":224956,
+         "volume":1.09,
+         "highlight":false,
+         "searchedTerm":false
+      },
+      {
+         "name":"Low Back Pain (Lumbago)",
+         "description":null,
+         "scope":"dx",
+         "score":82,
+         "observations":138063,
+         "volume":1.05,
+         "highlight":false,
+         "searchedTerm":false
+      },
+      {
+         "name":"Joint Disorder (Excludes Trauma)",
+         "description":null,
+         "scope":"dx",
+         "score":66,
+         "observations":182368,
+         "volume":0.94,
+         "highlight":false,
+         "searchedTerm":false
+      },
+      {
+         "name":"Malaise and Fatigue",
+         "description":null,
+         "scope":"dx",
+         "score":82,
+         "observations":182754,
+         "volume":0.92,
+         "highlight":false,
+         "searchedTerm":false
+      },
+      {
+         "name":"Coronary Atherosclerosis and Ischemic Heart Disease",
+         "description":null,
+         "scope":"dx",
+         "score":62,
+         "observations":200817,
+         "volume":0.92,
+         "highlight":false,
+         "searchedTerm":false
+      },
+      {
+         "name":"Osteoarthritis",
+         "description":"Osteoarthritis is the breakdown of cartilage, a tissue that covers and protects the end of bones in joints. The breakdown in cartilage causes bones in the joint to rub together. Osteoarthris causes pain and swelling in the joints making it difficult to move.",
+         "scope":"dx",
+         "score":79,
+         "observations":170387,
+         "volume":0.9,
+         "highlight":false,
+         "searchedTerm":false
+      },
+      {
+         "name":"Diseases of the Blood and Blood-Forming Organs",
+         "description":null,
+         "scope":"dx",
+         "score":55,
+         "observations":214602,
+         "volume":0.9,
+         "highlight":false,
+         "searchedTerm":false
+      },
+      {
+         "name":"Nutritional Deficiencies",
+         "description":null,
+         "scope":"dx",
+         "score":76,
+         "observations":182921,
+         "volume":0.87,
+         "highlight":false,
+         "searchedTerm":false
+      },
+      {
+         "name":"Mental Illness",
+         "description":null,
+         "scope":"dx",
+         "score":40,
+         "observations":218434,
+         "volume":0.83,
+         "highlight":false,
+         "searchedTerm":false
+      },
+      {
+         "name":"Atrial Fibrillation",
+         "description":"An arrhythmia is a problem with the speed or rhythm of the heartbeat. Atrial fibrillation (AF) is the most common type of arrhythmia. The cause is a disorder in the heart's electrical system. (MedlinePlus, 2016).",
+         "scope":"dx",
+         "score":64,
+         "observations":191932,
+         "volume":0.83,
+         "highlight":false,
+         "searchedTerm":false
+      },
+      {
+         "name":"Thyroid Disorders",
+         "description":null,
+         "scope":"dx",
+         "score":65,
+         "observations":200635,
+         "volume":0.74,
+         "highlight":false,
+         "searchedTerm":false
+      },
+      {
+         "name":"Joint Pain, Inflammation And/Or Stiffness",
+         "description":null,
+         "scope":"dx",
+         "score":65,
+         "observations":165864,
+         "volume":0.72,
+         "highlight":false,
+         "searchedTerm":false
+      },
+      {
+         "name":"Thyroid Disorders (Excludes Thyrotoxicosis)",
+         "description":null,
+         "scope":"dx",
+         "score":65,
+         "observations":199053,
+         "volume":0.72,
+         "highlight":false,
+         "searchedTerm":false
+      },
+      {
+         "name":"Esophagitis",
+         "description":"Esophagitis is inflammation of the esophagus. The esophagus is the tube that food and water flow through from the mouth to the stomach.",
+         "scope":"dx",
+         "score":83,
+         "observations":80760,
+         "volume":0.72,
+         "highlight":false,
+         "searchedTerm":false
+      },
+      {
+         "name":"Coronary Artery Disease (CAD)",
+         "description":"Coronary artery disease (CAD), or coronary atherosclerosis, is the build up of cholesterol and other cells (plaque) in the wall of blood vessels (coronary arteries) that provide blood (oxygen supply) to the heart muscle. As the plaque grows, it decreases the blood flow to the heart muscle.",
+         "scope":"dx",
+         "score":63,
+         "observations":194862,
+         "volume":0.68,
+         "highlight":false,
+         "searchedTerm":false
+      },
+      {
+         "name":"Hypertensive Heart and Chronic Kidney Disease",
+         "description":null,
+         "scope":"dx",
+         "score":67,
+         "observations":170321,
+         "volume":0.66,
+         "highlight":false,
+         "searchedTerm":false
+      },
+      {
+         "name":"Headache",
+         "description":null,
+         "scope":"dx",
+         "score":80,
+         "observations":152720,
+         "volume":0.59,
+         "highlight":false,
+         "searchedTerm":false
+      },
+      {
+         "name":"Diseases of Arterial System",
+         "description":null,
+         "scope":"dx",
+         "score":56,
+         "observations":209047,
+         "volume":0.57,
+         "highlight":false,
+         "searchedTerm":false
+      },
+      {
+         "name":"Gout and Crystal Joint Disorders",
+         "description":null,
+         "scope":"dx",
+         "score":84,
+         "observations":136987,
+         "volume":0.52,
+         "highlight":false,
+         "searchedTerm":false
+      },
+      {
+         "name":"Heart Failure, Systolic and Diastolic",
+         "description":null,
+         "scope":"dx",
+         "score":49,
+         "observations":190347,
+         "volume":0.52,
+         "highlight":false,
+         "searchedTerm":false
+      },
+      {
+         "name":"Disorders of Synovium Tendon and Bursa",
+         "description":null,
+         "scope":"dx",
+         "score":78,
+         "observations":102144,
+         "volume":0.48,
+         "highlight":false,
+         "searchedTerm":false
+      },
+      {
+         "name":"Nervous System Disorders (Peripheral, Central, Other)",
+         "description":null,
+         "scope":"dx",
+         "score":42,
+         "observations":209320,
+         "volume":0.48,
+         "highlight":false,
+         "searchedTerm":false
+      },
+      {
+         "name":"Diseases of Veins and Lymphatics",
+         "description":null,
+         "scope":"dx",
+         "score":66,
+         "observations":193132,
+         "volume":0.48,
+         "highlight":false,
+         "searchedTerm":false
+      },
+      {
+         "name":"Infectious and Parasitic Diseases",
+         "description":null,
+         "scope":"dx",
+         "score":40,
+         "observations":216654,
+         "volume":0.44,
+         "highlight":false,
+         "searchedTerm":false
+      },
+      {
+         "name":"Intervertebral Disc (Spine) Disorders",
+         "description":null,
+         "scope":"dx",
+         "score":81,
+         "observations":116032,
+         "volume":0.42,
+         "highlight":false,
+         "searchedTerm":false
+      },
+      {
+         "name":"Lower Respiratory Disease",
+         "description":null,
+         "scope":"dx",
+         "score":52,
+         "observations":210615,
+         "volume":0.42,
+         "highlight":false,
+         "searchedTerm":false
+      },
+      {
+         "name":"Lower Respiratory Disease (Trachea, Bronchus, Lung)",
+         "description":null,
+         "scope":"dx",
+         "score":52,
+         "observations":209515,
+         "volume":0.42,
+         "highlight":false,
+         "searchedTerm":false
+      },
+      {
+         "name":"Diseases of Female Genital Organs",
+         "description":null,
+         "scope":"dx",
+         "score":63,
+         "observations":150109,
+         "volume":0.35,
+         "highlight":false,
+         "searchedTerm":false
+      },
+      {
+         "name":"Anemia",
+         "description":"Hemoglobin is an iron-rich protein in red blood cells (RBCs) that carries oxygen to the tissues of the body. Anemia is a condition where there are not enough healthy red blood cells to carry oxygen to the tissues of the body. Anemia can be caused by a low level of iron in the body, blood loss, abnormal red blood cells, and destruction of red blood cells.",
+         "scope":"dx",
+         "score":56,
+         "observations":190338,
+         "volume":0.33,
+         "highlight":false,
+         "searchedTerm":false
+      },
+      {
+         "name":"Asthma",
+         "description":"Asthma is a chronic (long term) condition that affects the airways in response to \"triggers\" or allergies. Airways become swollen and may cause wheezing, coughing, tightness in the chest or difficulty breathing.",
+         "scope":"dx",
+         "score":61,
+         "observations":171250,
+         "volume":0.31,
+         "highlight":false,
+         "searchedTerm":false
+      },
+      {
+         "name":"Sciatica",
+         "description":"The sciatic nerve is the largest nerve of the body and runs from the lower back to the foot on each side of the body. Sciatica is pain along the sciatic nerve which can be caused by a variety of conditions.",
+         "scope":"dx",
+         "score":72,
+         "observations":74495,
+         "volume":0.28,
+         "highlight":false,
+         "searchedTerm":false
+      },
+      {
+         "name":"Fluid and Electrolyte Disorders",
+         "description":null,
+         "scope":"dx",
+         "score":53,
+         "observations":188450,
+         "volume":0.28,
+         "highlight":false,
+         "searchedTerm":false
+      },
+      {
+         "name":"Mood Disorders",
+         "description":null,
+         "scope":"dx",
+         "score":50,
+         "observations":181357,
+         "volume":0.28,
+         "highlight":false,
+         "searchedTerm":false
+      },
+      {
+         "name":"Migraine Headache",
+         "description":null,
+         "scope":"dx",
+         "score":77,
+         "observations":106072,
+         "volume":0.28,
+         "highlight":false,
+         "searchedTerm":false
+      },
+      {
+         "name":"Disorders of Soft Tissues (Excludes Ligament, Fascia, Tendon, and Bursa)",
+         "description":null,
+         "scope":"dx",
+         "score":57,
+         "observations":170127,
+         "volume":0.26,
+         "highlight":false,
+         "searchedTerm":false
+      },
+      {
+         "name":"Congestive Heart Failure",
+         "description":null,
+         "scope":"dx",
+         "score":57,
+         "observations":123361,
+         "volume":0.26,
+         "highlight":false,
+         "searchedTerm":false
+      },
+      {
+         "name":"Chronic Obstructive Pulmonary Disease (COPD) and Bronchiectasis",
+         "description":null,
+         "scope":"dx",
+         "score":48,
+         "observations":194553,
+         "volume":0.24,
+         "highlight":false,
+         "searchedTerm":false
+      },
+      {
+         "name":"Urinary Tract Infection (UTI)",
+         "description":"Urinary Tract Infections, or \"UTIs\", are caused by germs that get into the urinary system (urinary tract). The urinary system is made up of the kidneys, ureters (tubes that carry urine from the kidneys to the bladder, the bladder, and urethra (the tube urine comes out when you urinate/\"go\"). UTI signs and symptoms include: pain or burning when urinating; need to \"go\" (urinate) often; bloody, cloudy, or bad smelling urine; pain or pressure in your lower belly; fever, chills, and shaking; and pain on the side of the body or back below the ribs.",
+         "scope":"dx",
+         "score":46,
+         "observations":170593,
+         "volume":0.22,
+         "highlight":false,
+         "searchedTerm":false
+      },
+      {
+         "name":"Endocrine Disorders (Excludes Diabetes and Thyroid Disorders)",
+         "description":null,
+         "scope":"dx",
+         "score":76,
+         "observations":152273,
+         "volume":0.22,
+         "highlight":false,
+         "searchedTerm":false
+      },
+      {
+         "name":"Coagulation and Hemorrhagic Disorders",
+         "description":null,
+         "scope":"dx",
+         "score":63,
+         "observations":162467,
+         "volume":0.22,
+         "highlight":false,
+         "searchedTerm":false
+      },
+      {
+         "name":"Coagulation Defects",
+         "description":null,
+         "scope":"dx",
+         "score":77,
+         "observations":110552,
+         "volume":0.22,
+         "highlight":false,
+         "searchedTerm":false
+      },
+      {
+         "name":"Ear Conditions",
+         "description":null,
+         "scope":"dx",
+         "score":53,
+         "observations":168588,
+         "volume":0.22,
+         "highlight":false,
+         "searchedTerm":false
+      },
+      {
+         "name":"Blood in Urine (Hematuria)",
+         "description":null,
+         "scope":"dx",
+         "score":74,
+         "observations":109089,
+         "volume":0.2,
+         "highlight":false,
+         "searchedTerm":false
+      },
+      {
+         "name":"Abdominal Pain",
+         "description":null,
+         "scope":"dx",
+         "score":55,
+         "observations":181090,
+         "volume":0.2,
+         "highlight":false,
+         "searchedTerm":false
+      },
+      {
+         "name":"Depressive Disorders",
+         "description":null,
+         "scope":"dx",
+         "score":49,
+         "observations":173268,
+         "volume":0.2,
+         "highlight":false,
+         "searchedTerm":false
+      },
+      {
+         "name":"Viral Infection",
+         "description":null,
+         "scope":"dx",
+         "score":62,
+         "observations":173394,
+         "volume":0.17,
+         "highlight":false,
+         "searchedTerm":false
+      },
+      {
+         "name":"Male Genital Diseases",
+         "description":null,
+         "scope":"dx",
+         "score":52,
+         "observations":166099,
+         "volume":0.17,
+         "highlight":false,
+         "searchedTerm":false
+      },
+      {
+         "name":"Benign (Non-Cancerous) Breast Disease",
+         "description":null,
+         "scope":"dx",
+         "score":54,
+         "observations":91364,
+         "volume":0.17,
+         "highlight":false,
+         "searchedTerm":false
+      },
+      {
+         "name":"Heart Valve Disorders",
+         "description":null,
+         "scope":"dx",
+         "score":70,
+         "observations":171495,
+         "volume":0.17,
+         "highlight":false,
+         "searchedTerm":false
+      },
+      {
+         "name":"Cerebrovascular Disease",
+         "description":null,
+         "scope":"dx",
+         "score":47,
+         "observations":178699,
+         "volume":0.17,
+         "highlight":false,
+         "searchedTerm":false
+      },
+      {
+         "name":"Viral Hepatitis",
+         "description":null,
+         "scope":"dx",
+         "score":68,
+         "observations":130192,
+         "volume":0.15,
+         "highlight":false,
+         "searchedTerm":false
+      },
+      {
+         "name":"Infections (Includes Vector and Parasitic Diseases)",
+         "description":null,
+         "scope":"dx",
+         "score":68,
+         "observations":124852,
+         "volume":0.15,
+         "highlight":false,
+         "searchedTerm":false
+      },
+      {
+         "name":"Nephritis, Nephrosis, Renal Sclerosis",
+         "description":null,
+         "scope":"dx",
+         "score":79,
+         "observations":62112,
+         "volume":0.15,
+         "highlight":false,
+         "searchedTerm":false
+      },
+      {
+         "name":"Enlargement of the Prostate",
+         "description":null,
+         "scope":"dx",
+         "score":55,
+         "observations":147693,
+         "volume":0.15,
+         "highlight":false,
+         "searchedTerm":false
+      },
+      {
+         "name":"Diseases of the Skin and Subcutaneous Tissue",
+         "description":null,
+         "scope":"dx",
+         "score":39,
+         "observations":201611,
+         "volume":0.15,
+         "highlight":false,
+         "searchedTerm":false
+      },
+      {
+         "name":"Anxiety Disorders",
+         "description":null,
+         "scope":"dx",
+         "score":48,
+         "observations":180270,
+         "volume":0.15,
+         "highlight":false,
+         "searchedTerm":false
+      },
+      {
+         "name":"Dizziness or Vertigo",
+         "description":null,
+         "scope":"dx",
+         "score":53,
+         "observations":144963,
+         "volume":0.15,
+         "highlight":false,
+         "searchedTerm":false
+      },
+      {
+         "name":"Disorders of the Peripheral Nervous System",
+         "description":null,
+         "scope":"dx",
+         "score":51,
+         "observations":161300,
+         "volume":0.15,
+         "highlight":false,
+         "searchedTerm":false
+      },
+      {
+         "name":"Nonspecific Chest Pain",
+         "description":null,
+         "scope":"dx",
+         "score":61,
+         "observations":176872,
+         "volume":0.15,
+         "highlight":false,
+         "searchedTerm":false
+      },
+      {
+         "name":"Renal (Kidney) Failure",
+         "description":null,
+         "scope":"dx",
+         "score":51,
+         "observations":157482,
+         "volume":0.13,
+         "highlight":false,
+         "searchedTerm":false
+      },
+      {
+         "name":"Acute Renal (Kidney) Failure",
+         "description":null,
+         "scope":"dx",
+         "score":50,
+         "observations":150879,
+         "volume":0.13,
+         "highlight":false,
+         "searchedTerm":false
+      },
+      {
+         "name":"Menstrual Disorders",
+         "description":null,
+         "scope":"dx",
+         "score":63,
+         "observations":60257,
+         "volume":0.13,
+         "highlight":false,
+         "searchedTerm":false
+      },
+      {
+         "name":"Abnormal Tissue Growth (Neoplasm)",
+         "description":null,
+         "scope":"dx",
+         "score":61,
+         "observations":215139,
+         "volume":0.13,
+         "highlight":false,
+         "searchedTerm":false
+      },
+      {
+         "name":"Disorders of Mineral Metabolism",
+         "description":null,
+         "scope":"dx",
+         "score":55,
+         "observations":148047,
+         "volume":0.13,
+         "highlight":false,
+         "searchedTerm":false
+      },
+      {
+         "name":"Screening and History of Mental Health and Substance Abuse",
+         "description":null,
+         "scope":"dx",
+         "score":40,
+         "observations":191959,
+         "volume":0.13,
+         "highlight":false,
+         "searchedTerm":false
+      },
+      {
+         "name":"Eye Disorders",
+         "description":null,
+         "scope":"dx",
+         "score":47,
+         "observations":165685,
+         "volume":0.13,
+         "highlight":false,
+         "searchedTerm":false
+      },
+      {
+         "name":"Gastrointestinal Disorders (Excludes Bleeding, Biliary, Liver, and Pancreatic Disorders)",
+         "description":null,
+         "scope":"dx",
+         "score":49,
+         "observations":202452,
+         "volume":0.13,
+         "highlight":false,
+         "searchedTerm":false
+      }
+   ],
+   "specialtyPracticed":[
+      {
+         "name":"Internal Medicine: General",
+         "code":"mdi_spx_207R00000X",
+         "isPrimary":false,
+         "score":null,
+         "observations":null,
+         "description":"A physician who provides long-term, comprehensive care in the office and the hospital, managing both common and complex illness of adolescents, adults and the elderly. Internists are trained in the diagnosis and treatment of cancer, infections and diseases affecting the heart, blood, kidneys, joints and digestive, respiratory and vascular systems. They are also trained in the essentials of primary care internal medicine, which incorporates an understanding of disease prevention, wellness, substance abuse, mental health and effective treatment of common problems of the eyes, ears, skin, nervous system and reproductive organs.",
+         "highlight":false,
+         "searchedTerm":false
+      }
+   ],
+   "primarySpecialty":null,
+   "practiceLocations":[
+      {
+         "id":"9q8yyubkzvf7",
+         "practiceName":"Plushcare of California Inc. A Professional Corp.",
+         "addr1":"650 5th St Ste 311",
+         "addr2":null,
+         "city":"San Francisco",
+         "state":"CA",
+         "zipCode":"94107",
+         "countryCode":"US",
+         "phone":"8002215140",
+         "fax":"4152315332",
+         "latitude":37.775962829589844,
+         "longitude":-122.39800262451172,
+         "isPrimary":"Y",
+         "languages":[
+            {
+               "code":"en",
+               "value":"English"
+            }
+         ],
+         "extendedDetails":{
+            "location":"",
+            "parking":""
+         },
+         "distance":null,
+         "acceptingNewPatients":false,
+         "hoursOfOperation":{
+            "monday":{
+               "open":null,
+               "lunch":null,
+               "lunchDuration":null,
+               "close":null
+            },
+            "tuesday":{
+               "open":null,
+               "lunch":null,
+               "lunchDuration":null,
+               "close":null
+            },
+            "wednesday":{
+               "open":null,
+               "lunch":null,
+               "lunchDuration":null,
+               "close":null
+            },
+            "thursday":{
+               "open":null,
+               "lunch":null,
+               "lunchDuration":null,
+               "close":null
+            },
+            "friday":{
+               "open":null,
+               "lunch":null,
+               "lunchDuration":null,
+               "close":null
+            },
+            "saturday":null,
+            "sunday":null
+         },
+         "closestOffice":false,
+         "inNetwork":null,
+         "carrierDesignations":[
+            
+         ]
+      },
+      {
+         "id":"9q8yyubkzvf7",
+         "practiceName":null,
+         "addr1":"650 5th St Ste 405",
+         "addr2":null,
+         "city":"San Francisco",
+         "state":"CA",
+         "zipCode":"94107",
+         "countryCode":"US",
+         "phone":"8002215140",
+         "fax":"4152315332",
+         "latitude":37.775962829589844,
+         "longitude":-122.39800262451172,
+         "isPrimary":"N",
+         "languages":[
+            {
+               "code":"en",
+               "value":"English"
+            }
+         ],
+         "extendedDetails":{
+            "location":"",
+            "parking":""
+         },
+         "distance":null,
+         "acceptingNewPatients":false,
+         "hoursOfOperation":{
+            "monday":{
+               "open":null,
+               "lunch":null,
+               "lunchDuration":null,
+               "close":null
+            },
+            "tuesday":{
+               "open":null,
+               "lunch":null,
+               "lunchDuration":null,
+               "close":null
+            },
+            "wednesday":{
+               "open":null,
+               "lunch":null,
+               "lunchDuration":null,
+               "close":null
+            },
+            "thursday":{
+               "open":null,
+               "lunch":null,
+               "lunchDuration":null,
+               "close":null
+            },
+            "friday":{
+               "open":null,
+               "lunch":null,
+               "lunchDuration":null,
+               "close":null
+            },
+            "saturday":null,
+            "sunday":null
+         },
+         "closestOffice":false,
+         "inNetwork":null,
+         "carrierDesignations":[
+            
+         ]
+      }
+   ],
+   "healthPlanAffiliations":[
+      
+   ],
+   "hospitalAffiliations":[
+      
+   ],
+   "certifications":[
+      {
+         "name":"Internal Medicine",
+         "type":"General Certificate",
+         "board":"American Board of Internal Medicine"
+      }
+   ],
+   "qualityMetrics":[
+      
+   ],
+   "review":null,
+   "sanctionStates":null,
+   "acceptingNewPatients":false,
+   "nextAvailableTimeSlot":null,
+   "resources":{
+      
+   },
+   "education":[
+      {
+         "name":"Perelman School Of Medicine At The University Of Pennsylvania",
+         "type":"1999",
+         "year":null
+      }
+   ],
+   "facilities":[
+      
+   ],
+   "patientProfile":{
+      "feature":{
+         "mdi_demo_adult":76,
+         "mdi_demo_geriatric":24
+      },
+      "gender":{
+         "F":63,
+         "M":36
+      },
+      "age":{
+         "71+":10,
+         "60-70":25,
+         "19-59":63,
+         "12-18":0
+      }
+   },
+   "inNetwork":null,
+   "locationsInNetwork":null,
+   "carrierDesignations":[
+      
+   ],
+   "providerType":null,
+   "aoc":[
+      
+   ]
+}

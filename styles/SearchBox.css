@@ -1,0 +1,127 @@
+.search-box-container {
+  max-width: 600px;
+  margin: 0 auto 40px;
+  position: relative;
+}
+
+.search-input-wrapper {
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+
+.search-input {
+  width: 100%;
+  padding: 15px 45px 15px 20px;
+  font-size: 1rem;
+  border: none;
+  border-radius: 25px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+  outline: none;
+  transition: all 0.3s ease;
+  background: white;
+}
+
+.search-input:focus {
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15);
+  transform: scale(1.02);
+}
+
+.search-input::placeholder {
+  color: #999;
+}
+
+.clear-btn {
+  position: absolute;
+  right: 15px;
+  background: none;
+  border: none;
+  font-size: 1.2rem;
+  color: #999;
+  cursor: pointer;
+  padding: 5px 10px;
+  transition: color 0.2s ease;
+}
+
+.clear-btn:hover {
+  color: #667eea;
+}
+
+.suggestions-dropdown {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  right: 0;
+  background: white;
+  border-radius: 0 0 25px 25px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+  margin-top: -1px;
+  z-index: 10;
+  max-height: 400px;
+  overflow-y: auto;
+  animation: slideDown 0.3s ease-out;
+}
+
+.suggestion-item {
+  padding: 12px 20px;
+  cursor: pointer;
+  color: #333;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  transition: background-color 0.2s ease;
+  border-bottom: 1px solid #eee;
+  font-size: 0.95rem;
+}
+
+.suggestion-item:last-child {
+  border-bottom: none;
+}
+
+.suggestion-item:hover:not(.disabled) {
+  background-color: #f0f4ff;
+  color: #667eea;
+}
+
+.suggestion-item.disabled {
+  cursor: default;
+  color: #999;
+  justify-content: center;
+  padding: 20px;
+}
+
+.suggestion-item.disabled:hover {
+  background-color: transparent;
+  color: #999;
+}
+
+.suggestion-icon {
+  font-size: 1.1rem;
+}
+
+@keyframes slideDown {
+  from {
+    opacity: 0;
+    transform: translateY(-10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@media (max-width: 480px) {
+  .search-input {
+    font-size: 1rem;
+    padding: 12px 40px 12px 15px;
+  }
+
+  .clear-btn {
+    right: 12px;
+  }
+
+  .suggestion-item {
+    padding: 10px 15px;
+    font-size: 0.9rem;
+  }
+}
