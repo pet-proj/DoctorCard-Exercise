@@ -1,5 +1,8 @@
 # Doctor Information Directory - React App
 
+![alt text](image.png)
+![alt text](image-1.png)
+
 A modern React application displaying doctor information with Elasticsearch-like search by clinical areas.
 
 ## Quick Start
