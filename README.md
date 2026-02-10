@@ -16,7 +16,6 @@ A modern React application displaying doctor information with Elasticsearch-like
 
 3. **Access the app**
    - Local: http://localhost:3000
-   - Network: http://192.168.1.72:3000 (from other devices)
 
 ## Features
 
